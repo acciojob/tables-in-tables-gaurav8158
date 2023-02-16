@@ -1,22 +1,5 @@
 
 /* Your CSS Code here. */
- #main-1{
-	border:2px solid black;
-}
-/* tr,th,td{
-	border:1px solid black;
-	background-color:white;
-}
-#uni{
-	background-color:black;
-	color:white;
-	padding-left:25px;
-}
-#table-1,#table-2,#table-3,#table-4{
-	border:1px solid black;
-	width:100%;
-	height:100%;
-} */
 table,tr,th,td{
 	border: 1px solid black;
 }
