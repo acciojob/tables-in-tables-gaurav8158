@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	color:rgb(0, 0, 0);
+}
 table,tr,th,td{
 	border: 1px solid black;
 }
